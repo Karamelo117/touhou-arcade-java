@@ -1,0 +1,16 @@
+# Binarios compilados
+*.class
+*.jar
+/build/
+/dist/
+/out/
+
+# Metadatos de IDEs
+/nbproject/private/
+/.idea/
+*.iml
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
